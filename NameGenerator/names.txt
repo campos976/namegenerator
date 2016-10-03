@@ -1,0 +1,489 @@
+1. script
+2. daybook
+3. ledger
+4. record
+5. volume
+6. hold
+7. reserve
+8. Leger
+9. account book
+10. book of account
+11. playscript
+1. remembering
+2. storage
+3. retentiveness
+4. retention
+5. store
+6. memory board
+7. recollection
+8. remembrance
+9. legacy
+10. remember
+11. memorial
+12. flash
+13. remembered
+14. cache
+15. memoriam
+16. mind
+17. memorials
+18. mem
+19. memorization
+20. consciousness
+21. tribute
+22. reminder
+23. history
+24. buffer
+25. memoria
+26. commemoration
+27. honor
+28. commemorate
+29. minds
+30. recall
+31. card
+32. heart
+33. commemorating
+34. keepsake
+35. commemorative
+36. mourning
+37. memento
+38. storing
+39. anniversary
+40. memoire
+41. module
+42. memorabilia
+43. memoir
+44. honour
+45. essay
+46. thesis
+47. souvenirs
+48. thumb
+49. record
+
+50. specification
+
+51. paper
+
+52. vault
+
+53. souvenir
+
+54. capsule
+
+55. mapped
+
+56. notes
+
+57. brief
+
+58. pleading
+
+59. presentation
+1. psyche
+
+2. idea
+
+3. brain
+
+4. intellect
+
+5. thinker
+
+6. worry
+
+7. listen
+
+8. heed
+
+9. beware
+
+10. judgment
+
+11. head
+
+12. judgement
+
+13. nous
+
+14. take care
+
+15. bear in mind
+
+16. thinking
+
+17. mindset
+
+18. eye
+
+19. perspective
+
+20. imagination
+
+21. sense
+
+22. soul
+
+23. conscience
+
+24. think
+
+25. perception
+
+26. mood
+
+27. recollection
+
+28. attitude
+
+29. forget
+
+30. consciousness
+
+31. memory
+
+32. remember
+
+33. mentality
+
+34. spirit
+
+35. context
+
+36. heart
+
+37. forefront
+
+38. thought
+
+39. opinion
+
+40. viewpoint
+
+41. way
+
+42. want
+
+43. fact
+
+44. notion
+
+45. sight
+
+46. intention
+
+47. belief
+
+48. mental
+
+49. vision
+
+50. sake
+
+51. logic
+
+52. boggling
+
+53. bothers
+
+54. standpoint
+
+55. conscious
+
+56. anything
+
+57. crazy
+
+58. mindful
+
+59. okay
+
+60. insane
+
+
+60. dissertation
+1. mention
+
+2. notice
+
+3. notation
+
+4. remark
+
+5. promissory note
+
+6. tone
+
+7. banknote
+
+8. bill
+
+9. observe
+
+10. distinction
+
+11. annotation
+
+12. mark
+
+13. greenback
+
+14. line
+
+15. eminence
+
+16. preeminence
+
+17. bank bill
+
+18. bank note
+
+19. Federal Reserve Note
+
+20. government note
+
+21. musical note
+
+22. note of hand
+
+23. short letter
+
+24. take down
+
+25. take note
+1. handle
+
+2. supervise
+
+3. oversee
+
+4. cope
+
+5. do
+
+6. grapple
+
+7. finagle
+
+8. superintend
+
+9. wangle
+
+10. contend
+
+11. deal
+
+12. care
+
+13. pull off
+
+14. bring off
+
+15. carry off
+
+16. get by
+
+17. make do
+
+18. make out
+
+19. administrate
+
+20. administer
+
+21. monitor
+
+22. mange
+
+23. management
+
+24. maintain
+
+25. mitigate
+
+26. organize
+
+27. juggle
+
+28. govern
+
+29. operate
+
+30. create
+
+31. absorb
+
+32. handled
+
+33. manageable
+
+34. control
+
+35. respond
+
+36. regulate
+
+37. deliver
+
+38. overcome
+
+39. managment
+
+40. treat
+
+41. arrange
+
+42. dealing
+
+43. solve
+
+44. achieve
+
+45. handling
+
+46. confront
+
+47. resolve
+
+48. steer
+
+49. manipulate
+
+50. accommodate
+
+51. dispense
+
+52. carry
+
+53. meet
+
+54. manager
+
+55. get
+
+56. ensure
+
+57. wrangle
+
+58. managerial
+
+59. administrating
+
+60. unmanageable
+1. speak
+
+2. blab
+
+3. babble
+
+4. tattle
+
+5. lecture
+
+6. sing
+
+7. verbalize
+
+8. utter
+
+9. mouth
+
+10. babble out
+
+11. blab out
+
+12. public lecture
+
+13. Talk Of The Town
+
+14. peach
+
+15. discuss
+
+16. tell
+
+17. discussing
+
+18. chat
+
+19. conversation
+
+20. spoke
+
+21. spoken
+
+22. chatter
+
+23. hear
+
+24. discussion
+
+25. ask
+
+26. chitchat
+
+27. converse
+
+28. speaking
+
+29. telling
+
+30. say
+
+31. talkin
+
+32. discussed
+
+33. debate
+
+34. speaks
+
+35. negotiate
+
+36. scuttlebutt
+
+37. banter
+
+38. consult
+
+39. schmooze
+
+40. call
+
+41. rumor
+
+42. inform
+
+43. gossip
+
+44. see
+
+45. communicate
+
+46. argue
+
+47. interview
+
+48. explain
+
+49. gab
+
+50. interact
+
+51. lectures
+
+52. question
+
+53. mention
+
+54. meet
+
+55. comment
+
+56. dialogue
+
+57. told
+
+58. engage
+
+59. saying
+
+60. confer
